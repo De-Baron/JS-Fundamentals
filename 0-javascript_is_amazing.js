@@ -1,2 +1,3 @@
 const myVar = JavaScript is amazing;
-console.log("myVAR");
+console.log(myVar);
+
